@@ -326,11 +326,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 ```
 <html>
   <head>
-<<<<<<< HEAD
     <link type="text/css" rel="stylesheet" media="all" href="style.css" />
-=======
-    <!-- подключение стилей отсутствуют, по какой-то причине -->
->>>>>>> master
   </head>
   <body>
     <h1>Hello,World!</h1>
@@ -492,11 +488,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 ```
 <html>
   <head>
-<<<<<<< HEAD
     <link type="text/css" rel="stylesheet" media="all" href="style.css" />
-=======
-    <!-- подключение стилей отсутствуют, по какой-то причине -->
->>>>>>> master
   </head>
   <body>
     <h1>Hello,World!</h1>
